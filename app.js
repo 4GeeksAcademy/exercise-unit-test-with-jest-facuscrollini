@@ -21,7 +21,7 @@ function fromYenToPound(yen){
 function sum(a, b ) {
     return a + b;
 }
-module.exports = {sum, fromEuroToDollar};
+module.exports = {sum, fromEuroToDollar, fromDollarToYen, fromYenToPound};
 
 
 
